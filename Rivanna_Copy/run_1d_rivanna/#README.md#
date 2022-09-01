@@ -1,0 +1,13 @@
+README for /Users/biocomplexity/Projects/SocioCognitiveModeling/NSF-NetCogSys/Products/CAN_Model/CAN_GitRepo/IsingFitStudy/Hopfield/Simulations/run_0f
+
+This file is for generating of the IsingFit network estimator.  The purpose
+is to test the Reagan data in the Hopfield context.  This program will not
+export data to R (e.g., an anti-ferrous magnet structure) but simply call the
+R script to generate the IsingFit.
+
+THERE IS SOME EXTRA STUFF IN HERE THAT IS VERY USEFUL:
+    1. catch_endstate, shows that all patts in data converge to one attractor
+    2. under #PLAYING WITH DATA U there is a nice analysis of the unique vectors in
+    the reagan data
+    3. The tests of sufficiencey show simple tests of any sin
+EOF

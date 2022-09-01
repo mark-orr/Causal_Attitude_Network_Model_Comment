@@ -1,0 +1,35 @@
+run_no, date, description
+run_0a, 1-14-21, beta on developing the modeling framework
+run_0b, 1-18-21, beta on the anti-ferrous mag
+run_0c, 1-19-21, beta on the anti-ferrous mag with Ising Fit Algo
+run_0d, 1-21-21, beta on correlation graphs to test Ising Fit
+run_0e, 1-28-21, beta on rate version of hopfield, derived from 0b
+run_0f, 1-29-21, working out modeling for Reagan Data, code is cobbled from diff runs 
+run_0g, 1-30-21, is copy of run_0f for special purpose run for all comb of 2^22 inputs to the Ising-Fit rates
+run_0h, 1-31-21, is rate model for looking at ising fit capacity, mixture of above
+run_0i, 2-3-21, is copy of run_0h but with addition of proper hebbian thresholds and probabilistic update functions for if and hb
+**********STARTING FINAL SIMS*************
+run_1dev, 2-5-21, Basic Reconstruction Study of Reagan Data
+run_1d, 2-15-21, *local version for dev of study 1d; this is all 2^22 inputs
+run_1d*, 2-16-21, *rivanna version of 1d, takes precedence over run_1d local
+run_1d_fix-node-9, 5-01-21, *rivanna version of study 1d, all 2^22 inputs but fixing node 9 to 'on'
+run_1d_b*, 2-16-21, *rivanna extension of 1d, has diff temp.
+run_1b, 2-20-21, *local version for study 1b; single clamped inputs and some other fun stuffs like the graph structure
+run_2dev, 2-25-21, first version of small world
+run_2a, 3-8-21, final baseline simulation for SW with N = 1000, K = 10
+run_2b, 3-9-21, final rewire negative sim for SW with N = 1000, K = 10
+run_1d_fix*, 10-13-21, *local copy of the run_fixes on rivanna.  Used to do Data Analysis locally.
+run_2c, 2-21-22, run of run_2b but with random bit initial states
+run_2d, 2-23-22, run of run_2a but with random bit initial states
+run_2e, 8-5-22, run of run_2b with S_i = {-1,1} with sign function and all ones as init vect.
+run_2f, 8-5-22, same as 2e but with random as init vect.
+run_2g, 8-6-22, same as 2f but with probabilistic sign function.
+run_2h, 8-6-22, same as 2e but with probabilistic sign function.
+run_2i, 8-26-22, deeper explore of 2b to look at higher rewire and no of attr.
+
+#NOTES:
+--run_1d and run_1d_b on rivanna are on scratch mo6xj/Orr_CAN_scratch/
+--Analysis of rivanna studies is on rivanna also due to large size of
+data files
+
+EOF

@@ -1,0 +1,694 @@
+DONE loading W, T, U
+init is: 0
+end is: 139810
+init is: 139810
+end is: 279620
+init is: 279620
+end is: 419430
+init is: 419430
+end is: 559240
+init is: 559240
+end is: 699050
+init is: 699050
+end is: 838860
+init is: 838860
+end is: 978670
+init is: 978670
+end is: 1118480
+init is: 1118480
+end is: 1258290
+init is: 1258290
+end is: 1398100
+init is: 1398100
+end is: 1537910
+init is: 1537910
+end is: 1677720
+init is: 1677720
+end is: 1817530
+init is: 1817530
+end is: 1957340
+init is: 1957340
+end is: 2097150
+init is: 2097150
+end is: 2236960
+init is: 2236960
+end is: 2376770
+init is: 2376770
+end is: 2516580
+init is: 2516580
+end is: 2656390
+init is: 2656390
+end is: 2796200
+init is: 2796200
+end is: 2936010
+init is: 2936010
+end is: 3075820
+init is: 3075820
+end is: 3215630
+init is: 3215630
+end is: 3355440
+init is: 3355440
+end is: 3495250
+init is: 3495250
+end is: 3635060
+init is: 3635060
+end is: 3774870
+init is: 3774870
+end is: 3914680
+init is: 3914680
+end is: 4054490
+init is: 4054490
+end is: 4194300
+PROCESS STARTED NAMED:  (0, 139810)
+PROCESS STARTED NAMED:  (139810, 279620)
+PROCESS STARTED NAMED:  (279620, 419430)
+PROCESS STARTED NAMED:  (419430, 559240)
+PROCESS STARTED NAMED:  (559240, 699050)
+PROCESS STARTED NAMED:  (699050, 838860)
+PROCESS STARTED NAMED:  (838860, 978670)
+PROCESS STARTED NAMED:  (978670, 1118480)
+PROCESS STARTED NAMED:  (1118480, 1258290)
+PROCESS STARTED NAMED:  (1258290, 1398100)
+PROCESS STARTED NAMED:  (1398100, 1537910)
+PROCESS STARTED NAMED:  (1537910, 1677720)
+PROCESS STARTED NAMED:  (1677720, 1817530)
+PROCESS STARTED NAMED:  (1817530, 1957340)
+PROCESS STARTED NAMED:  (1957340, 2097150)
+PROCESS STARTED NAMED:  (2097150, 2236960)
+PROCESS STARTED NAMED:  (2236960, 2376770)
+PROCESS STARTED NAMED:  (2376770, 2516580)
+PROCESS STARTED NAMED:  (2516580, 2656390)
+PROCESS STARTED NAMED:  (2656390, 2796200)
+PROCESS STARTED NAMED:  (2796200, 2936010)
+PROCESS STARTED NAMED:  (2936010, 3075820)
+PROCESS STARTED NAMED:  (3075820, 3215630)
+PROCESS STARTED NAMED:  (3215630, 3355440)
+PROCESS STARTED NAMED:  (3355440, 3495250)
+PROCESS STARTED NAMED:  (3495250, 3635060)
+PROCESS STARTED NAMED:  (3635060, 3774870)
+PROCESS STARTED NAMED:  (3774870, 3914680)
+PROCESS STARTED NAMED:  (3914680, 4054490)
+Process Single_Proc Started:  (1957340, 2097150)
+Subproc i:  1960000
+Subproc i:  1970000
+Subproc i:  1980000
+Subproc i:  1990000
+Subproc i:  2000000
+Subproc i:  2010000
+Subproc i:  2020000
+Subproc i:  2030000
+Subproc i:  2040000
+Subproc i:  2050000
+Subproc i:  2060000
+Subproc i:  2070000
+Subproc i:  2080000
+Subproc i:  2090000
+END MAIN LOOP
+SAVE OUT
+SINGLE PROC DONE (1957340, 2097150)
+/sfs/lustre/bahamut/scratch/mo6xj/Orr_CAN_scratch/run_1d_fix-node-2/rate.py:8: RuntimeWarning: overflow encountered in exp
+  return 1/(1+np.exp(-X))
+Process Single_Proc Started:  (3215630, 3355440)
+Subproc i:  3220000
+Subproc i:  3230000
+Subproc i:  3240000
+Subproc i:  3250000
+Subproc i:  3260000
+Subproc i:  3270000
+Subproc i:  3280000
+Subproc i:  3290000
+Subproc i:  3300000
+Subproc i:  3310000
+Subproc i:  3320000
+Subproc i:  3330000
+Subproc i:  3340000
+Subproc i:  3350000
+END MAIN LOOP
+SAVE OUT
+SINGLE PROC DONE (3215630, 3355440)
+/sfs/lustre/bahamut/scratch/mo6xj/Orr_CAN_scratch/run_1d_fix-node-2/rate.py:8: RuntimeWarning: overflow encountered in exp
+  return 1/(1+np.exp(-X))
+Process Single_Proc Started:  (2376770, 2516580)
+Subproc i:  2380000
+Subproc i:  2390000
+Subproc i:  2400000
+Subproc i:  2410000
+Subproc i:  2420000
+Subproc i:  2430000
+Subproc i:  2440000
+Subproc i:  2450000
+Subproc i:  2460000
+Subproc i:  2470000
+Subproc i:  2480000
+Subproc i:  2490000
+Subproc i:  2500000
+Subproc i:  2510000
+END MAIN LOOP
+SAVE OUT
+SINGLE PROC DONE (2376770, 2516580)
+/sfs/lustre/bahamut/scratch/mo6xj/Orr_CAN_scratch/run_1d_fix-node-2/rate.py:8: RuntimeWarning: overflow encountered in exp
+  return 1/(1+np.exp(-X))
+Process Single_Proc Started:  (3355440, 3495250)
+Subproc i:  3360000
+Subproc i:  3370000
+Subproc i:  3380000
+Subproc i:  3390000
+Subproc i:  3400000
+Subproc i:  3410000
+Subproc i:  3420000
+Subproc i:  3430000
+Subproc i:  3440000
+Subproc i:  3450000
+Subproc i:  3460000
+Subproc i:  3470000
+Subproc i:  3480000
+Subproc i:  3490000
+END MAIN LOOP
+SAVE OUT
+SINGLE PROC DONE (3355440, 3495250)
+/sfs/lustre/bahamut/scratch/mo6xj/Orr_CAN_scratch/run_1d_fix-node-2/rate.py:8: RuntimeWarning: overflow encountered in exp
+  return 1/(1+np.exp(-X))
+Process Single_Proc Started:  (3914680, 4054490)
+Subproc i:  3920000
+Subproc i:  3930000
+Subproc i:  3940000
+Subproc i:  3950000
+Subproc i:  3960000
+Subproc i:  3970000
+Subproc i:  3980000
+Subproc i:  3990000
+Subproc i:  4000000
+Subproc i:  4010000
+Subproc i:  4020000
+Subproc i:  4030000
+Subproc i:  4040000
+Subproc i:  4050000
+END MAIN LOOP
+SAVE OUT
+SINGLE PROC DONE (3914680, 4054490)
+/sfs/lustre/bahamut/scratch/mo6xj/Orr_CAN_scratch/run_1d_fix-node-2/rate.py:8: RuntimeWarning: overflow encountered in exp
+  return 1/(1+np.exp(-X))
+Process Single_Proc Started:  (1258290, 1398100)
+Subproc i:  1260000
+Subproc i:  1270000
+Subproc i:  1280000
+Subproc i:  1290000
+Subproc i:  1300000
+Subproc i:  1310000
+Subproc i:  1320000
+Subproc i:  1330000
+Subproc i:  1340000
+Subproc i:  1350000
+Subproc i:  1360000
+Subproc i:  1370000
+Subproc i:  1380000
+Subproc i:  1390000
+END MAIN LOOP
+SAVE OUT
+SINGLE PROC DONE (1258290, 1398100)
+/sfs/lustre/bahamut/scratch/mo6xj/Orr_CAN_scratch/run_1d_fix-node-2/rate.py:8: RuntimeWarning: overflow encountered in exp
+  return 1/(1+np.exp(-X))
+Process Single_Proc Started:  (1118480, 1258290)
+Subproc i:  1120000
+Subproc i:  1130000
+Subproc i:  1140000
+Subproc i:  1150000
+Subproc i:  1160000
+Subproc i:  1170000
+Subproc i:  1180000
+Subproc i:  1190000
+Subproc i:  1200000
+Subproc i:  1210000
+Subproc i:  1220000
+Subproc i:  1230000
+Subproc i:  1240000
+Subproc i:  1250000
+END MAIN LOOP
+SAVE OUT
+SINGLE PROC DONE (1118480, 1258290)
+/sfs/lustre/bahamut/scratch/mo6xj/Orr_CAN_scratch/run_1d_fix-node-2/rate.py:8: RuntimeWarning: overflow encountered in exp
+  return 1/(1+np.exp(-X))
+Process Single_Proc Started:  (3495250, 3635060)
+Subproc i:  3500000
+Subproc i:  3510000
+Subproc i:  3520000
+Subproc i:  3530000
+Subproc i:  3540000
+Subproc i:  3550000
+Subproc i:  3560000
+Subproc i:  3570000
+Subproc i:  3580000
+Subproc i:  3590000
+Subproc i:  3600000
+Subproc i:  3610000
+Subproc i:  3620000
+Subproc i:  3630000
+END MAIN LOOP
+SAVE OUT
+SINGLE PROC DONE (3495250, 3635060)
+/sfs/lustre/bahamut/scratch/mo6xj/Orr_CAN_scratch/run_1d_fix-node-2/rate.py:8: RuntimeWarning: overflow encountered in exp
+  return 1/(1+np.exp(-X))
+Process Single_Proc Started:  (699050, 838860)
+Subproc i:  700000
+Subproc i:  710000
+Subproc i:  720000
+Subproc i:  730000
+Subproc i:  740000
+Subproc i:  750000
+Subproc i:  760000
+Subproc i:  770000
+Subproc i:  780000
+Subproc i:  790000
+Subproc i:  800000
+Subproc i:  810000
+Subproc i:  820000
+Subproc i:  830000
+END MAIN LOOP
+SAVE OUT
+SINGLE PROC DONE (699050, 838860)
+/sfs/lustre/bahamut/scratch/mo6xj/Orr_CAN_scratch/run_1d_fix-node-2/rate.py:8: RuntimeWarning: overflow encountered in exp
+  return 1/(1+np.exp(-X))
+Process Single_Proc Started:  (1537910, 1677720)
+Subproc i:  1540000
+Subproc i:  1550000
+Subproc i:  1560000
+Subproc i:  1570000
+Subproc i:  1580000
+Subproc i:  1590000
+Subproc i:  1600000
+Subproc i:  1610000
+Subproc i:  1620000
+Subproc i:  1630000
+Subproc i:  1640000
+Subproc i:  1650000
+Subproc i:  1660000
+Subproc i:  1670000
+END MAIN LOOP
+SAVE OUT
+SINGLE PROC DONE (1537910, 1677720)
+/sfs/lustre/bahamut/scratch/mo6xj/Orr_CAN_scratch/run_1d_fix-node-2/rate.py:8: RuntimeWarning: overflow encountered in exp
+  return 1/(1+np.exp(-X))
+Process Single_Proc Started:  (2097150, 2236960)
+Subproc i:  2100000
+Subproc i:  2110000
+Subproc i:  2120000
+Subproc i:  2130000
+Subproc i:  2140000
+Subproc i:  2150000
+Subproc i:  2160000
+Subproc i:  2170000
+Subproc i:  2180000
+Subproc i:  2190000
+Subproc i:  2200000
+Subproc i:  2210000
+Subproc i:  2220000
+Subproc i:  2230000
+END MAIN LOOP
+SAVE OUT
+SINGLE PROC DONE (2097150, 2236960)
+/sfs/lustre/bahamut/scratch/mo6xj/Orr_CAN_scratch/run_1d_fix-node-2/rate.py:8: RuntimeWarning: overflow encountered in exp
+  return 1/(1+np.exp(-X))
+Process Single_Proc Started:  (2516580, 2656390)
+Subproc i:  2520000
+Subproc i:  2530000
+Subproc i:  2540000
+Subproc i:  2550000
+Subproc i:  2560000
+Subproc i:  2570000
+Subproc i:  2580000
+Subproc i:  2590000
+Subproc i:  2600000
+Subproc i:  2610000
+Subproc i:  2620000
+Subproc i:  2630000
+Subproc i:  2640000
+Subproc i:  2650000
+END MAIN LOOP
+SAVE OUT
+SINGLE PROC DONE (2516580, 2656390)
+/sfs/lustre/bahamut/scratch/mo6xj/Orr_CAN_scratch/run_1d_fix-node-2/rate.py:8: RuntimeWarning: overflow encountered in exp
+  return 1/(1+np.exp(-X))
+Process Single_Proc Started:  (279620, 419430)
+Subproc i:  280000
+Subproc i:  290000
+Subproc i:  300000
+Subproc i:  310000
+Subproc i:  320000
+Subproc i:  330000
+Subproc i:  340000
+Subproc i:  350000
+Subproc i:  360000
+Subproc i:  370000
+Subproc i:  380000
+Subproc i:  390000
+Subproc i:  400000
+Subproc i:  410000
+END MAIN LOOP
+SAVE OUT
+SINGLE PROC DONE (279620, 419430)
+/sfs/lustre/bahamut/scratch/mo6xj/Orr_CAN_scratch/run_1d_fix-node-2/rate.py:8: RuntimeWarning: overflow encountered in exp
+  return 1/(1+np.exp(-X))
+Process Single_Proc Started:  (419430, 559240)
+Subproc i:  420000
+Subproc i:  430000
+Subproc i:  440000
+Subproc i:  450000
+Subproc i:  460000
+Subproc i:  470000
+Subproc i:  480000
+Subproc i:  490000
+Subproc i:  500000
+Subproc i:  510000
+Subproc i:  520000
+Subproc i:  530000
+Subproc i:  540000
+Subproc i:  550000
+END MAIN LOOP
+SAVE OUT
+SINGLE PROC DONE (419430, 559240)
+/sfs/lustre/bahamut/scratch/mo6xj/Orr_CAN_scratch/run_1d_fix-node-2/rate.py:8: RuntimeWarning: overflow encountered in exp
+  return 1/(1+np.exp(-X))
+Process Single_Proc Started:  (0, 139810)
+Subproc i:  0
+Subproc i:  1
+Subproc i:  10000
+Subproc i:  20000
+Subproc i:  30000
+Subproc i:  40000
+Subproc i:  50000
+Subproc i:  60000
+Subproc i:  70000
+Subproc i:  80000
+Subproc i:  90000
+Subproc i:  100000
+Subproc i:  110000
+Subproc i:  120000
+Subproc i:  130000
+END MAIN LOOP
+SAVE OUT
+SINGLE PROC DONE (0, 139810)
+/sfs/lustre/bahamut/scratch/mo6xj/Orr_CAN_scratch/run_1d_fix-node-2/rate.py:8: RuntimeWarning: overflow encountered in exp
+  return 1/(1+np.exp(-X))
+Process Single_Proc Started:  (4054490, 4194303)
+Subproc i:  4060000
+Subproc i:  4070000
+Subproc i:  4080000
+Subproc i:  4090000
+Subproc i:  4100000
+Subproc i:  4110000
+Subproc i:  4120000
+Subproc i:  4130000
+Subproc i:  4140000
+Subproc i:  4150000
+Subproc i:  4160000
+Subproc i:  4170000
+Subproc i:  4180000
+Subproc i:  4190000
+END MAIN LOOP
+SAVE OUT
+SINGLE PROC DONE (4054490, 4194303)
+/sfs/lustre/bahamut/scratch/mo6xj/Orr_CAN_scratch/run_1d_fix-node-2/rate.py:8: RuntimeWarning: overflow encountered in exp
+  return 1/(1+np.exp(-X))
+Process Single_Proc Started:  (3774870, 3914680)
+Subproc i:  3780000
+Subproc i:  3790000
+Subproc i:  3800000
+Subproc i:  3810000
+Subproc i:  3820000
+Subproc i:  3830000
+Subproc i:  3840000
+Subproc i:  3850000
+Subproc i:  3860000
+Subproc i:  3870000
+Subproc i:  3880000
+Subproc i:  3890000
+Subproc i:  3900000
+Subproc i:  3910000
+END MAIN LOOP
+SAVE OUT
+SINGLE PROC DONE (3774870, 3914680)
+/sfs/lustre/bahamut/scratch/mo6xj/Orr_CAN_scratch/run_1d_fix-node-2/rate.py:8: RuntimeWarning: overflow encountered in exp
+  return 1/(1+np.exp(-X))
+Process Single_Proc Started:  (3635060, 3774870)
+Subproc i:  3640000
+Subproc i:  3650000
+Subproc i:  3660000
+Subproc i:  3670000
+Subproc i:  3680000
+Subproc i:  3690000
+Subproc i:  3700000
+Subproc i:  3710000
+Subproc i:  3720000
+Subproc i:  3730000
+Subproc i:  3740000
+Subproc i:  3750000
+Subproc i:  3760000
+Subproc i:  3770000
+END MAIN LOOP
+SAVE OUT
+SINGLE PROC DONE (3635060, 3774870)
+/sfs/lustre/bahamut/scratch/mo6xj/Orr_CAN_scratch/run_1d_fix-node-2/rate.py:8: RuntimeWarning: overflow encountered in exp
+  return 1/(1+np.exp(-X))
+Process Single_Proc Started:  (2936010, 3075820)
+Subproc i:  2940000
+Subproc i:  2950000
+Subproc i:  2960000
+Subproc i:  2970000
+Subproc i:  2980000
+Subproc i:  2990000
+Subproc i:  3000000
+Subproc i:  3010000
+Subproc i:  3020000
+Subproc i:  3030000
+Subproc i:  3040000
+Subproc i:  3050000
+Subproc i:  3060000
+Subproc i:  3070000
+END MAIN LOOP
+SAVE OUT
+SINGLE PROC DONE (2936010, 3075820)
+/sfs/lustre/bahamut/scratch/mo6xj/Orr_CAN_scratch/run_1d_fix-node-2/rate.py:8: RuntimeWarning: overflow encountered in exp
+  return 1/(1+np.exp(-X))
+Process Single_Proc Started:  (3075820, 3215630)
+Subproc i:  3080000
+Subproc i:  3090000
+Subproc i:  3100000
+Subproc i:  3110000
+Subproc i:  3120000
+Subproc i:  3130000
+Subproc i:  3140000
+Subproc i:  3150000
+Subproc i:  3160000
+Subproc i:  3170000
+Subproc i:  3180000
+Subproc i:  3190000
+Subproc i:  3200000
+Subproc i:  3210000
+END MAIN LOOP
+SAVE OUT
+SINGLE PROC DONE (3075820, 3215630)
+/sfs/lustre/bahamut/scratch/mo6xj/Orr_CAN_scratch/run_1d_fix-node-2/rate.py:8: RuntimeWarning: overflow encountered in exp
+  return 1/(1+np.exp(-X))
+Process Single_Proc Started:  (2796200, 2936010)
+Subproc i:  2800000
+Subproc i:  2810000
+Subproc i:  2820000
+Subproc i:  2830000
+Subproc i:  2840000
+Subproc i:  2850000
+Subproc i:  2860000
+Subproc i:  2870000
+Subproc i:  2880000
+Subproc i:  2890000
+Subproc i:  2900000
+Subproc i:  2910000
+Subproc i:  2920000
+Subproc i:  2930000
+END MAIN LOOP
+SAVE OUT
+SINGLE PROC DONE (2796200, 2936010)
+/sfs/lustre/bahamut/scratch/mo6xj/Orr_CAN_scratch/run_1d_fix-node-2/rate.py:8: RuntimeWarning: overflow encountered in exp
+  return 1/(1+np.exp(-X))
+Process Single_Proc Started:  (2656390, 2796200)
+Subproc i:  2660000
+Subproc i:  2670000
+Subproc i:  2680000
+Subproc i:  2690000
+Subproc i:  2700000
+Subproc i:  2710000
+Subproc i:  2720000
+Subproc i:  2730000
+Subproc i:  2740000
+Subproc i:  2750000
+Subproc i:  2760000
+Subproc i:  2770000
+Subproc i:  2780000
+Subproc i:  2790000
+END MAIN LOOP
+SAVE OUT
+SINGLE PROC DONE (2656390, 2796200)
+/sfs/lustre/bahamut/scratch/mo6xj/Orr_CAN_scratch/run_1d_fix-node-2/rate.py:8: RuntimeWarning: overflow encountered in exp
+  return 1/(1+np.exp(-X))
+Process Single_Proc Started:  (2236960, 2376770)
+Subproc i:  2240000
+Subproc i:  2250000
+Subproc i:  2260000
+Subproc i:  2270000
+Subproc i:  2280000
+Subproc i:  2290000
+Subproc i:  2300000
+Subproc i:  2310000
+Subproc i:  2320000
+Subproc i:  2330000
+Subproc i:  2340000
+Subproc i:  2350000
+Subproc i:  2360000
+Subproc i:  2370000
+END MAIN LOOP
+SAVE OUT
+SINGLE PROC DONE (2236960, 2376770)
+/sfs/lustre/bahamut/scratch/mo6xj/Orr_CAN_scratch/run_1d_fix-node-2/rate.py:8: RuntimeWarning: overflow encountered in exp
+  return 1/(1+np.exp(-X))
+Process Single_Proc Started:  (1677720, 1817530)
+Subproc i:  1680000
+Subproc i:  1690000
+Subproc i:  1700000
+Subproc i:  1710000
+Subproc i:  1720000
+Subproc i:  1730000
+Subproc i:  1740000
+Subproc i:  1750000
+Subproc i:  1760000
+Subproc i:  1770000
+Subproc i:  1780000
+Subproc i:  1790000
+Subproc i:  1800000
+Subproc i:  1810000
+END MAIN LOOP
+SAVE OUT
+SINGLE PROC DONE (1677720, 1817530)
+/sfs/lustre/bahamut/scratch/mo6xj/Orr_CAN_scratch/run_1d_fix-node-2/rate.py:8: RuntimeWarning: overflow encountered in exp
+  return 1/(1+np.exp(-X))
+Process Single_Proc Started:  (1817530, 1957340)
+Subproc i:  1820000
+Subproc i:  1830000
+Subproc i:  1840000
+Subproc i:  1850000
+Subproc i:  1860000
+Subproc i:  1870000
+Subproc i:  1880000
+Subproc i:  1890000
+Subproc i:  1900000
+Subproc i:  1910000
+Subproc i:  1920000
+Subproc i:  1930000
+Subproc i:  1940000
+Subproc i:  1950000
+END MAIN LOOP
+SAVE OUT
+SINGLE PROC DONE (1817530, 1957340)
+/sfs/lustre/bahamut/scratch/mo6xj/Orr_CAN_scratch/run_1d_fix-node-2/rate.py:8: RuntimeWarning: overflow encountered in exp
+  return 1/(1+np.exp(-X))
+Process Single_Proc Started:  (1398100, 1537910)
+Subproc i:  1400000
+Subproc i:  1410000
+Subproc i:  1420000
+Subproc i:  1430000
+Subproc i:  1440000
+Subproc i:  1450000
+Subproc i:  1460000
+Subproc i:  1470000
+Subproc i:  1480000
+Subproc i:  1490000
+Subproc i:  1500000
+Subproc i:  1510000
+Subproc i:  1520000
+Subproc i:  1530000
+END MAIN LOOP
+SAVE OUT
+SINGLE PROC DONE (1398100, 1537910)
+/sfs/lustre/bahamut/scratch/mo6xj/Orr_CAN_scratch/run_1d_fix-node-2/rate.py:8: RuntimeWarning: overflow encountered in exp
+  return 1/(1+np.exp(-X))
+Process Single_Proc Started:  (838860, 978670)
+Subproc i:  840000
+Subproc i:  850000
+Subproc i:  860000
+Subproc i:  870000
+Subproc i:  880000
+Subproc i:  890000
+Subproc i:  900000
+Subproc i:  910000
+Subproc i:  920000
+Subproc i:  930000
+Subproc i:  940000
+Subproc i:  950000
+Subproc i:  960000
+Subproc i:  970000
+END MAIN LOOP
+SAVE OUT
+SINGLE PROC DONE (838860, 978670)
+/sfs/lustre/bahamut/scratch/mo6xj/Orr_CAN_scratch/run_1d_fix-node-2/rate.py:8: RuntimeWarning: overflow encountered in exp
+  return 1/(1+np.exp(-X))
+Process Single_Proc Started:  (978670, 1118480)
+Subproc i:  980000
+Subproc i:  990000
+Subproc i:  1000000
+Subproc i:  1010000
+Subproc i:  1020000
+Subproc i:  1030000
+Subproc i:  1040000
+Subproc i:  1050000
+Subproc i:  1060000
+Subproc i:  1070000
+Subproc i:  1080000
+Subproc i:  1090000
+Subproc i:  1100000
+Subproc i:  1110000
+END MAIN LOOP
+SAVE OUT
+SINGLE PROC DONE (978670, 1118480)
+/sfs/lustre/bahamut/scratch/mo6xj/Orr_CAN_scratch/run_1d_fix-node-2/rate.py:8: RuntimeWarning: overflow encountered in exp
+  return 1/(1+np.exp(-X))
+Process Single_Proc Started:  (559240, 699050)
+Subproc i:  560000
+Subproc i:  570000
+Subproc i:  580000
+Subproc i:  590000
+Subproc i:  600000
+Subproc i:  610000
+Subproc i:  620000
+Subproc i:  630000
+Subproc i:  640000
+Subproc i:  650000
+Subproc i:  660000
+Subproc i:  670000
+Subproc i:  680000
+Subproc i:  690000
+END MAIN LOOP
+SAVE OUT
+SINGLE PROC DONE (559240, 699050)
+/sfs/lustre/bahamut/scratch/mo6xj/Orr_CAN_scratch/run_1d_fix-node-2/rate.py:8: RuntimeWarning: overflow encountered in exp
+  return 1/(1+np.exp(-X))
+Process Single_Proc Started:  (139810, 279620)
+Subproc i:  140000
+Subproc i:  150000
+Subproc i:  160000
+Subproc i:  170000
+Subproc i:  180000
+Subproc i:  190000
+Subproc i:  200000
+Subproc i:  210000
+Subproc i:  220000
+Subproc i:  230000
+Subproc i:  240000
+Subproc i:  250000
+Subproc i:  260000
+Subproc i:  270000
+END MAIN LOOP
+SAVE OUT
+SINGLE PROC DONE (139810, 279620)
+/sfs/lustre/bahamut/scratch/mo6xj/Orr_CAN_scratch/run_1d_fix-node-2/rate.py:8: RuntimeWarning: overflow encountered in exp
+  return 1/(1+np.exp(-X))
+PROCESS STARTED NAMED:  (4054490, 4194303)
+END OF PROGRAM
+GO HOME

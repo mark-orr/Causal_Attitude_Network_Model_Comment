@@ -1,0 +1,16 @@
+#!/bin/bash
+#SBATCH --time=3-00:00:00
+#SBATCH --nodes=1
+#SBATCH --mem=350000
+#SBATCH -o run_1d-fix-node-9.out
+#SBATCH --partition=bii
+#SBATCH -A socialsim
+#SBATCH --exclusive
+#SBATCH --cpus-per-task=30
+#SBTACH --core-spec=40
+
+module load anaconda
+source activate /home/mo6xj/miniconda3/envs/meng
+
+python run_1d.py
+
