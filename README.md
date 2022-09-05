@@ -6,6 +6,8 @@ Simulation Set 2 (Study 1) —> run_1b
 Simulation Set 3 (Study 2) —> run_2b
 Simulation Set 4 (Study 2) —> run_2c
 
+These studies were run within a conda environement.  To recreate this environment, please see the spec file: ./spec_file_hopfield.txt.
+
 Data for Study 1:
 Original data source used for Study 1 was the American National Election Survey, 1984, Part 1: Pre- and Post-Election Survey.  Download instructions are provided below. 
 
