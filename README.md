@@ -6,7 +6,6 @@ Simulation Set 2 (Study 1) —> run_1b
 Simulation Set 3 (Study 2) —> run_2b
 Simulation Set 4 (Study 2) —> run_2c
 
-
 Data for Study 1:
 Original data source used for Study 1 was the American National Election Survey, 1984, Part 1: Pre- and Post-Election Survey.  Download instructions are provided below. 
 
@@ -30,6 +29,9 @@ The initial data (to mean at the front of the simulation pipeline) for Study 2 a
 PROCEDURE IS THIS:
 1. run the appropriate version of run_X_graph_gen.py.  This will created the necessary graph structures for a simulation set.  Notice that the saving directory will need mods to align with your local machine.
 2. Using run_X.py will call the graphs made in step 1 for running the simulations.
+
+Simulations and Analysis:
+Each of the simulation folders has README.md files for describing each simulation.  Analysis is done in the same folders after simulation.  
 
 
 EOF
