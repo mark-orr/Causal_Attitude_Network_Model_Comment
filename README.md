@@ -1,4 +1,4 @@
-This is the public repo for the submitted article "Theoretical Comment: The Relation Between Network Structure of the Causal Attitude Network and its Dynamics" submitted to Psychological Review. 
+This is the public repo for the submitted article "Theoretical Comment: The Relation Between Network Structure of the Causal Attitude Network and its Dynamics". 
 
 Mapping between the simulation number in the submitted article and the simulation folders in this GitHub repo:
 Simulation Set 1 (Study 1) —> run_1d_fix
