@@ -11,7 +11,7 @@ These studies were run within a conda environement.  To recreate this environmen
 Data for Study 1:
 Original data source used for Study 1 was the American National Election Survey, 1984, Part 1: Pre- and Post-Election Survey.  Download instructions are provided below. 
 
-See the following article for details on the data used for the simulations in Study 1:  Dalege, J., Borsboom, D., van Harreveld, F., van den Berg, H., Conner, M., & van der Maas, H. L. J. (2016). Toward a formalized account of attitudes: The Causal Attitude Network (CAN) model. Psychological Review, 123(1), 2–22. https://doi.org/10.1037/a0039802. Or contact Mark Orr at *mo6xj@virginia.edu
+See the following article for details on the data used for the simulations in Study 1:  Dalege, J., Borsboom, D., van Harreveld, F., van den Berg, H., Conner, M., & van der Maas, H. L. J. (2016). Toward a formalized account of attitudes: The Causal Attitude Network (CAN) model. Psychological Review, 123(1), 2–22. https://doi.org/10.1037/a0039802. Or contact Mark Orr at *morr@ihmc.org .
 
 These data will not be included as part of this repo because the data holder requires that they are not shared.  However, these data are obtainable with little restriction.  It just requires registering at the data holders web portal.  
 
